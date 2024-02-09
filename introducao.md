@@ -42,3 +42,7 @@ Algumas tendências e eventos significativos que ocorreram durante o período de
 - Desenvolvimento de Sistemas Autônomos: Houve avanços significativos no desenvolvimento de sistemas autônomos, incluindo veículos autônomos, drones e robôs industriais, com um foco crescente na segurança e confiabilidade desses sistemas.
 - IA na Indústria: Setores como manufatura, varejo e serviços financeiros continuaram a adotar soluções baseadas em IA para otimizar processos, melhorar a eficiência e oferecer experiências personalizadas aos clientes.
 - Privacidade e Segurança: As preocupações com a privacidade e segurança dos dados aumentaram à medida que a IA se tornou mais difundida, levando a um maior escrutínio sobre as práticas de coleta, uso e compartilhamento de dados por parte das empresas e governos.
+
+### 
+
+![image](https://github.com/michelecodes/inteligencia-artificial/assets/133832334/b2aa9f05-67d6-4ecb-808e-f4eea0d5aeeb)
