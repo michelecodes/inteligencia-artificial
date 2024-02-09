@@ -39,3 +39,19 @@ Aplicações Problemáticas e Éticas:
 - Cyberbullying e Assédio: A tecnologia de deepfake pode ser usada para criar conteúdo prejudicial, como vídeos de assédio, cyberbullying ou manipulação de imagens com o objetivo de prejudicar a reputação de alguém.
 
 Em resumo, enquanto o deepfake pode ter algumas aplicações criativas e benignas, é importante estar ciente dos riscos associados a essa tecnologia e das implicações éticas envolvidas em seu uso. A conscientização sobre esses problemas é fundamental para promover o uso responsável e ético do deepfake.
+
+### Legislação
+
+Até  janeiro de 2022, não havia legislação específica no Brasil que tratasse diretamente de deepfakes. No entanto, existem leis e regulamentos existentes que podem ser aplicados para lidar com questões relacionadas ao uso indevido de deepfakes. Algumas delas incluem:
+
+- Leis de Proteção à Privacidade e Honra: O Código Civil Brasileiro, em seu artigo 20, estabelece o direito à privacidade e à imagem das pessoas. Portanto, o uso indevido de deepfakes para violar a privacidade ou difamar a imagem de alguém pode ser enquadrado nessas leis.
+
+- Leis Contra Difamação e Calúnia: O Código Penal Brasileiro contém disposições que criminalizam a difamação e a calúnia, que podem ser aplicadas em casos em que deepfakes são usados para disseminar informações falsas ou prejudiciais sobre uma pessoa.
+
+- Leis de Proteção de Dados: A Lei Geral de Proteção de Dados (LGPD), em vigor desde setembro de 2020, estabelece regras para o tratamento de dados pessoais, incluindo imagens de indivíduos. Portanto, o uso de deepfakes que envolva a coleta, armazenamento ou processamento de dados pessoais pode estar sujeito às disposições da LGPD.
+
+- Leis de Propriedade Intelectual: Em casos onde deepfakes são usados para criar conteúdo que infringe direitos autorais, as leis de propriedade intelectual brasileiras, como a Lei de Direitos Autorais, podem ser aplicadas para proteger os direitos dos titulares de direitos autorais.
+
+Embora não haja uma legislação específica sobre deepfakes no Brasil, é importante que o sistema legal esteja preparado para lidar com questões emergentes relacionadas à manipulação digital de mídias. Pode-se esperar que as leis e regulamentos evoluam para abordar essas questões à medida que a tecnologia de deepfake se torna mais difundida e seus impactos são mais compreendidos. Enquanto isso, a aplicação das leis existentes pode ser uma forma de abordar casos de uso indevido de deepfakes.
+
+
