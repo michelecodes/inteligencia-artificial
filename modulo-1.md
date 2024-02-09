@@ -6,6 +6,8 @@ Conteúdo de apoio:
 
 # Inteligencia Artificial
 
+### O que é e onde se aplica
+
 A inteligência artificial (IA) refere-se à capacidade das máquinas de realizar tarefas que normalmente exigiriam inteligência humana. Isso inclui coisas como reconhecimento de padrões, aprendizado, tomada de decisões, compreensão da linguagem natural e muito mais. As aplicações da IA são vastas e estão se expandindo rapidamente em diversas áreas do mercado de trabalho, algumas das quais incluem:
 
 - Saúde: A IA é usada para ajudar no diagnóstico médico, prever surtos de doenças, otimizar tratamentos e até mesmo realizar cirurgias assistidas por robôs.
@@ -17,7 +19,9 @@ A inteligência artificial (IA) refere-se à capacidade das máquinas de realiza
 - Educação: Plataformas de ensino online utilizam IA para adaptar o conteúdo de aprendizado às necessidades individuais dos alunos, oferecendo uma experiência mais personalizada.
 - Recursos Humanos: A IA é usada para triagem de currículos, recrutamento e seleção de candidatos, bem como para prever tendências de rotatividade de funcionários.
 - 
-No entanto, junto com os benefícios da IA, também surgem questões éticas importantes que precisam ser consideradas:
+### Ética
+
+Junto com os benefícios da IA, também surgem questões éticas importantes que precisam ser consideradas:
 
 - Viés algorítmico: Os algoritmos de IA podem refletir e até mesmo amplificar preconceitos existentes nos dados utilizados para treiná-los, resultando em decisões discriminatórias.
 - Privacidade e segurança: A coleta e análise de grandes quantidades de dados pessoais levantam preocupações sobre privacidade e segurança, especialmente quando esses dados são utilizados sem o consentimento adequado.
@@ -26,6 +30,8 @@ No entanto, junto com os benefícios da IA, também surgem questões éticas imp
 - Responsabilidade e transparência: É crucial estabelecer políticas e regulamentos claros para garantir a responsabilidade das empresas que desenvolvem e utilizam sistemas de IA, bem como garantir a transparência nas decisões tomadas por esses sistemas.
 
 Portanto, enquanto a IA oferece muitas oportunidades promissoras, é essencial abordar essas questões éticas para garantir que seu desenvolvimento e aplicação sejam feitos de maneira responsável e inclusiva.
+
+### Impactos atuais relevantes
 
 Algumas tendências e eventos significativos que ocorreram durante o período de 2020 à 2023 em relação à inteligência artificial:
 
