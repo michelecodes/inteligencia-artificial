@@ -4,8 +4,6 @@ Conteúdo de apoio:
 - [Inteligencia Artificial M0 A2 Jornada de aprendizagem.pdf](https://github.com/michelecodes/inteligencia-artificial/files/14216425/Inteligencia.Artificial.M0.A2.Jornada.de.aprendizagem.pdf)
 - [Inteligência Artificial M0 A3 Conheça os especialistas.pdf](https://github.com/michelecodes/inteligencia-artificial/files/14216424/Inteligencia.Artificial.M0.A3.Conheca.os.especialistas.pdf)
 
-# Inteligencia Artificial
-
 ### O que é e onde se aplica
 
 A inteligência artificial (IA) refere-se à capacidade das máquinas de realizar tarefas que normalmente exigiriam inteligência humana. Isso inclui coisas como reconhecimento de padrões, aprendizado, tomada de decisões, compreensão da linguagem natural e muito mais. As aplicações da IA são vastas e estão se expandindo rapidamente em diversas áreas do mercado de trabalho, algumas das quais incluem:
