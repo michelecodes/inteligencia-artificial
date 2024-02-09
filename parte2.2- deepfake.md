@@ -23,7 +23,7 @@ No Brasil, a multimídia forense é uma área em crescimento, especialmente com 
 
 Em resumo, a multimídia forense é uma área em ascensão no Brasil, com instituições governamentais, acadêmicas e privadas trabalhando juntas para lidar com a crescente complexidade das investigações que envolvem evidências digitais. O desenvolvimento contínuo de expertise técnica, capacitação de profissionais e colaboração entre diferentes partes interessadas são fundamentais para garantir uma aplicação eficaz e ética da multimídia forense no país.
 
-### Exemplo de ferramentas utilisadas
+### Exemplo de ferramentas atuais
 
 - Adobe Photoshop: Embora seja conhecido principalmente como um software de edição de imagens, o Photoshop também é utilizado em análises forenses de imagens digitais para detectar manipulações, verificar metadados e autenticar evidências.
 - Ghiro: Uma plataforma de código aberto para análise forense de imagens digitais. O Ghiro permite examinar imagens em busca de metadados, informações de geolocalização, marcas d'água e outros dados relevantes para investigações forenses.
