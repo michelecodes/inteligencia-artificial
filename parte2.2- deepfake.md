@@ -22,3 +22,13 @@ No Brasil, a multimídia forense é uma área em crescimento, especialmente com 
 - Desafios e Avanços Tecnológicos: Assim como em outros países, o Brasil enfrenta desafios relacionados à rápida evolução das tecnologias digitais, como deepfakes, criptografia e anonimização de dados. No entanto, também há avanços significativos em técnicas e ferramentas de análise forense digital, bem como em pesquisas acadêmicas e colaborações internacionais nesse campo.
 
 Em resumo, a multimídia forense é uma área em ascensão no Brasil, com instituições governamentais, acadêmicas e privadas trabalhando juntas para lidar com a crescente complexidade das investigações que envolvem evidências digitais. O desenvolvimento contínuo de expertise técnica, capacitação de profissionais e colaboração entre diferentes partes interessadas são fundamentais para garantir uma aplicação eficaz e ética da multimídia forense no país.
+
+### Exemplo de ferramentas utilisadas
+
+- Adobe Photoshop: Embora seja conhecido principalmente como um software de edição de imagens, o Photoshop também é utilizado em análises forenses de imagens digitais para detectar manipulações, verificar metadados e autenticar evidências.
+- Ghiro: Uma plataforma de código aberto para análise forense de imagens digitais. O Ghiro permite examinar imagens em busca de metadados, informações de geolocalização, marcas d'água e outros dados relevantes para investigações forenses.
+- Audacity: Um software de edição de áudio de código aberto usado em análises forenses de áudio. O Audacity permite visualizar e editar forma de onda, analisar espectrogramas, remover ruídos e realizar outras manipulações para autenticar gravações de áudio.
+- Forensic Video Analysis (FVA): Um conjunto de ferramentas especializadas para análise forense de vídeo. O FVA oferece recursos para examinar detalhes de quadros, analisar movimentos, sincronizar áudio e vídeo, e detectar manipulações em vídeos digitais.
+- ExifTool: Uma ferramenta de linha de comando que permite extrair, editar e visualizar metadados de arquivos de imagem e vídeo. O ExifTool é frequentemente usado em análises forenses para verificar a autenticidade e origem de imagens digitais.
+- Stellar Photo Recovery: Um software comercial de recuperação de dados usado em análises forenses de imagens digitais. O Stellar Photo Recovery pode recuperar imagens excluídas ou corrompidas de dispositivos de armazenamento, ajudando a recuperar evidências importantes em investigações criminais.
+- VideoCleaner: Uma ferramenta de código aberto para limpeza e análise forense de vídeos. O VideoCleaner oferece recursos para estabilização de vídeo, melhoria de qualidade, marcação de tempo e análise de conteúdo para identificar evidências relevantes em investigações criminais.
