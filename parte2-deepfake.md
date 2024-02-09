@@ -1,6 +1,6 @@
 # Deepfake
 
-### O que é
+## O que é
 
 Deepfake é uma técnica de inteligência artificial (IA) que combina técnicas de aprendizado de máquina, processamento de imagem e síntese de voz para criar mídias falsas, geralmente vídeos, nos quais pessoas ou objetos são manipulados de maneira convincente. O termo "deepfake" deriva do uso de redes neurais profundas (deep learning) para criar essas falsificações.
 
@@ -13,7 +13,7 @@ Embora a tecnologia de deepfake possa ter aplicações criativas e úteis, como 
 - Assédio e Intimidação: Deepfakes podem ser usados para criar conteúdo pornográfico não consensual, cyberbullying e assédio, causando danos psicológicos e emocionais às vítimas.
 - Perda de Confiança: A disseminação de deepfakes pode levar à perda de confiança na autenticidade das mídias online, tornando mais difícil discernir o que é real do que é falso.
 
-### Exemplos de aplicações
+## Exemplos de aplicações
 
 Existem várias aplicações de deepfake, algumas das quais são benignas e criativas, enquanto outras levantam preocupações éticas. Aqui estão alguns exemplos de ambas:
 
@@ -31,7 +31,7 @@ Aplicações Problemáticas e Éticas:
 
 Em resumo, enquanto o deepfake pode ter algumas aplicações criativas e benignas, é importante estar ciente dos riscos associados a essa tecnologia e das implicações éticas envolvidas em seu uso. A conscientização sobre esses problemas é fundamental para promover o uso responsável e ético do deepfake.
 
-### Legislação
+## Legislação
 
 Até  janeiro de 2022, não havia legislação específica no Brasil que tratasse diretamente de deepfakes. No entanto, existem leis e regulamentos existentes que podem ser aplicados para lidar com questões relacionadas ao uso indevido de deepfakes. Algumas delas incluem:
 
@@ -42,7 +42,7 @@ Até  janeiro de 2022, não havia legislação específica no Brasil que tratass
 
 Embora não haja uma legislação específica sobre deepfakes no Brasil, é importante que o sistema legal esteja preparado para lidar com questões emergentes relacionadas à manipulação digital de mídias. Pode-se esperar que as leis e regulamentos evoluam para abordar essas questões à medida que a tecnologia de deepfake se torna mais difundida e seus impactos são mais compreendidos. Enquanto isso, a aplicação das leis existentes pode ser uma forma de abordar casos de uso indevido de deepfakes.
 
-### Ferramentas de criação
+## Ferramentas de criação
 
 Existem várias ferramentas e softwares disponíveis que podem ser usados para criar deepfakes convincentes. Aqui estão algumas das mais conhecidas e amplamente utilizadas:
 
@@ -52,7 +52,7 @@ Existem várias ferramentas e softwares disponíveis que podem ser usados para c
 - Reface App: Uma aplicação móvel que permite aos usuários substituir seus rostos em vídeos curtos e GIFs com celebridades, personagens famosos e outros vídeos populares. Embora não seja tão avançado quanto outras ferramentas, é fácil de usar e pode produzir resultados convincentes.
 - DeepArt Effects: Outro serviço online que oferece recursos de manipulação de imagens baseados em IA. Ele permite aos usuários aplicar efeitos de estilo e filtros em suas fotos, incluindo a possibilidade de trocar rostos.
 
-- Ferramentas de identificação
+## Ferramentas de identificação
 
 Reconhecer deepfakes pode ser desafiador, pois essas tecnologias estão se tornando cada vez mais sofisticadas e capazes de produzir vídeos e imagens falsas extremamente convincentes. No entanto, existem algumas técnicas e estratégias que podem ajudar a identificar deepfakes:
 
