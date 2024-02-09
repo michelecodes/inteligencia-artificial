@@ -1,4 +1,4 @@
-# Módulo 1
+# Introdução à Inteligência Artificial
 
 Conteúdo de apoio: 
 - [Inteligencia Artificial M0 A2 Jornada de aprendizagem.pdf](https://github.com/michelecodes/inteligencia-artificial/files/14216425/Inteligencia.Artificial.M0.A2.Jornada.de.aprendizagem.pdf)
@@ -19,7 +19,7 @@ A inteligência artificial (IA) refere-se à capacidade das máquinas de realiza
 - Educação: Plataformas de ensino online utilizam IA para adaptar o conteúdo de aprendizado às necessidades individuais dos alunos, oferecendo uma experiência mais personalizada.
 - Recursos Humanos: A IA é usada para triagem de currículos, recrutamento e seleção de candidatos, bem como para prever tendências de rotatividade de funcionários.
 - 
-### Ética
+### Ética na Inteligência Aritifical
 
 Junto com os benefícios da IA, também surgem questões éticas importantes que precisam ser consideradas:
 
